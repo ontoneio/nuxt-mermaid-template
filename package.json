@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@nuxt/http": "^0.4.0",
+    "@nuxtjs/tailwindcss": "2.0.0",
     "mermaid": "8.5.0",
     "nuxt": "^2.12.2",
     "reqlim": "^0.0.0"

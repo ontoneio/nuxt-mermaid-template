@@ -45,6 +45,7 @@ export default {
     // TODO: Remove it if you want to eject from codeSandbox
     "./codesandbox"
   ],
+  buildModules: ["@nuxtjs/tailwindcss"],
 
   /*
    ** HTTP module configuration
